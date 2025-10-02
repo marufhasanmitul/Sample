@@ -1,4 +1,4 @@
-
+# Example of Explicit and Implicit
 
 ```javascript
 
